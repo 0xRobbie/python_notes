@@ -1,0 +1,21 @@
+name,phone,role
+Kaiser,563-647-3154,Energy
+Denyse,815-245-5055,n/a
+Willabella,825-498-3933,n/a
+Thatcher,301-902-8289,n/a
+Jefferey,186-832-5742,Consumer Non-Durables
+Trumann,580-185-8370,Energy
+Melba,432-621-0901,Health Care
+Hogan,980-130-8457,Health Care
+Jephthah,744-363-3423,Basic Industries
+Eulalie,806-415-2091,Finance
+Kellyann,182-498-0329,Consumer Non-Durables
+Lise,484-369-3853,Transportation
+Andros,770-271-3649,Health Care
+Shelley,212-254-3958,Capital Goods
+Henri,621-205-6848,Finance
+Sybilla,664-863-0562,Energy
+Claribel,757-428-6756,Technology
+Mandi,891-809-4832,Technology
+Tally,975-566-5688,n/a
+Gaynor,702-695-1350,Miscellaneous

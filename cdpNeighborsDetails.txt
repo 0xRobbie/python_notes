@@ -1,0 +1,574 @@
+SW-12.126-DRL.Rack01#show cdp neighbors detail
+-------------------------
+Device ID: SW-15.49-IDFAPBB.finanzas.df.gob.mx
+Entry address(es):
+  IP address: 10.1.237.49
+Platform: cisco WS-C2960-24PC-L,  Capabilities: Switch IGMP
+Interface: GigabitEthernet5/4,  Port ID (outgoing port): GigabitEthernet0/1
+Holdtime : 138 sec
+
+Version :
+Cisco IOS Software, C2960 Software (C2960-LANBASEK9-M), Version 15.0(2)SE11, RELEASE SOFTWARE (fc3)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2017 by Cisco Systems, Inc.
+Compiled Sat 19-Aug-17 09:34 by prod_rel_team
+
+advertisement version: 2
+Protocol Hello:  OUI=0x00000C, Protocol ID=0x0112; payload len=27, value=00000000FFFFFFFF010221FF00000000000000211BE68100FF0000
+VTP Management Domain: 'LAVISTA.SEFIN'
+Native VLAN: 1
+Duplex: full
+Management address(es):
+  IP address: 10.1.237.49
+Unidirectional Mode: off
+
+-------------------------
+Device ID: SW_237.1.finanzas.df.gob.mx
+Entry address(es):
+  IP address: 10.1.237.1
+Platform: cisco WS-C2960X-48LPD-L,  Capabilities: Switch IGMP
+Interface: GigabitEthernet5/9,  Port ID (outgoing port): GigabitEthernet1/0/50
+Holdtime : 160 sec
+
+Version :
+Cisco IOS Software, C2960X Software (C2960X-UNIVERSALK9-M), Version 15.2(2)E3, RELEASE SOFTWARE (fc3)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Wed 26-Aug-15 07:12 by prod_rel_team
+
+advertisement version: 2
+Protocol Hello:  OUI=0x00000C, Protocol ID=0x0112; payload len=27, value=00000000FFFFFFFF010221FF00000000000000562B4B0C80FF0000
+VTP Management Domain: 'SEFIN'
+Native VLAN: 1
+Duplex: full
+Management address(es):
+  IP address: 10.1.237.1
+Unidirectional Mode: off
+
+-------------------------
+Device ID: SW-134.181-ModuloCentral.finanzas.df.gob
+Entry address(es):
+  IP address: 10.1.237.181
+Platform: cisco WS-C2960-48TC-L,  Capabilities: Switch IGMP
+Interface: GigabitEthernet6/15,  Port ID (outgoing port): GigabitEthernet0/1
+Holdtime : 177 sec
+
+Version :
+Cisco IOS Software, C2960 Software (C2960-LANBASEK9-M), Version 15.0(2)SE11, RELEASE SOFTWARE (fc3)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2017 by Cisco Systems, Inc.
+Compiled Sat 19-Aug-17 09:34 by prod_rel_team
+
+advertisement version: 2
+Protocol Hello:  OUI=0x00000C, Protocol ID=0x0112; payload len=27, value=00000000FFFFFFFF010221FF000000000000A8B1D425B400FF0000
+VTP Management Domain: 'LAVISTA.SEFIN'
+Native VLAN: 1
+Duplex: full
+Management address(es):
+  IP address: 10.1.237.181
+
+-------------------------
+Device ID: SW-IP.15.70-IDFA1B.finanzas.df.gob.mx
+Entry address(es):
+  IP address: 10.1.237.70
+Platform: cisco WS-C2960-24PC-L,  Capabilities: Switch IGMP
+Interface: GigabitEthernet5/2,  Port ID (outgoing port): GigabitEthernet0/1
+Holdtime : 132 sec
+
+Version :
+Cisco IOS Software, C2960 Software (C2960-LANBASEK9-M), Version 15.0(2)SE11, RELEASE SOFTWARE (fc3)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2017 by Cisco Systems, Inc.
+Compiled Sat 19-Aug-17 09:34 by prod_rel_team
+
+advertisement version: 2
+Protocol Hello:  OUI=0x00000C, Protocol ID=0x0112; payload len=27, value=00000000FFFFFFFF010221FF00000000000000211BE67C00FF0000
+VTP Management Domain: 'LAVISTA.SEFIN'
+Native VLAN: 1
+Duplex: full
+Management address(es):
+  IP address: 10.1.237.70
+Unidirectional Mode: off
+
+-------------------------
+Device ID: SW-15.58-IDFA1A.finanzas.df.gob.mx
+Entry address(es):
+  IP address: 10.1.237.58
+Platform: cisco WS-C2960-48TC-L,  Capabilities: Switch IGMP
+Interface: GigabitEthernet5/1,  Port ID (outgoing port): GigabitEthernet0/1
+Holdtime : 165 sec
+
+Version :
+Cisco IOS Software, C2960 Software (C2960-LANBASEK9-M), Version 15.0(2)SE11, RELEASE SOFTWARE (fc3)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2017 by Cisco Systems, Inc.
+Compiled Sat 19-Aug-17 09:34 by prod_rel_team
+
+advertisement version: 2
+Protocol Hello:  OUI=0x00000C, Protocol ID=0x0112; payload len=27, value=00000000FFFFFFFF010221FF000000000000D0C282A10780FF0000
+VTP Management Domain: 'LAVISTA.SEFIN'
+Native VLAN: 1
+Duplex: full
+Management address(es):
+  IP address: 10.1.237.58
+Unidirectional Mode: off
+
+-------------------------
+Device ID: WLC-Sefin01
+Entry address(es):
+  IP address: 10.1.15.253
+  IPv6 address: FE80::256:2BFF:FEE3:2580  (link-local)
+Platform: AIR-CT2504-K9,  Capabilities: Host
+Interface: GigabitEthernet6/1,  Port ID (outgoing port): GigabitEthernet0/0/1
+Holdtime : 121 sec
+
+Version :
+Manufacturer's Name: Cisco Systems Inc.  Product Name: Cisco Controller  Product Version: 8.2.100.0  RTOS Version: Erro  Bootloader Version: 1.0.20  Build Type: DATA + WPS
+
+advertisement version: 2
+Duplex: full
+
+-------------------------
+Device ID: SW-15.18-IDFC
+Entry address(es):
+  IP address: 10.1.237.18
+Platform: cisco WS-C2960-24PC-L,  Capabilities: Switch IGMP
+Interface: GigabitEthernet5/8,  Port ID (outgoing port): GigabitEthernet0/1
+Holdtime : 166 sec
+
+Version :
+Cisco IOS Software, C2960 Software (C2960-LANBASEK9-M), Version 15.0(2)SE11, RELEASE SOFTWARE (fc3)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2017 by Cisco Systems, Inc.
+Compiled Sat 19-Aug-17 09:34 by prod_rel_team
+
+advertisement version: 2
+Protocol Hello:  OUI=0x00000C, Protocol ID=0x0112; payload len=27, value=00000000FFFFFFFF010221FF00000000000000211BE66580FF0000
+VTP Management Domain: 'LAVISTA.SEFIN'
+Native VLAN: 1
+Duplex: full
+Management address(es):
+  IP address: 10.1.237.18
+Unidirectional Mode: off
+
+-------------------------
+Device ID: SW-FIDERE
+Entry address(es):
+  IP address: 10.1.8.252
+Platform: N2048P,  Capabilities: Router
+Interface: GigabitEthernet6/19,  Port ID (outgoing port): Gi1/0/37
+Holdtime : 150 sec
+
+Version :
+6.3.2.3
+
+advertisement version: 2
+
+-------------------------
+Device ID: Contigencia.Redes
+Entry address(es):
+  IP address: 10.1.15.203
+  IPv6 address: FE80::520F:80FF:FE52:7118  (link-local)
+Platform: cisco AIR-CAP3702I-N-K9,  Capabilities: Trans-Bridge Source-Route-Bridge IGMP
+Interface: GigabitEthernet6/48,  Port ID (outgoing port): GigabitEthernet0
+Holdtime : 150 sec
+
+Version :
+Cisco IOS Software, C3700 Software (AP3G2-K9W8-M), Version 15.3(3)JC, RELEASE SOFTWARE (fc1)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Fri 11-Dec-15 11:51 by prod_rel_team
+
+advertisement version: 2
+Duplex: full
+Power drawn: 16.800 Watts
+Power request id: 37232, Power management id: 4
+Power request levels are:16800 15400 13000 0 0
+Management address(es):
+  IP address: 10.1.15.203
+
+-------------------------
+Device ID: CONTACT_CENTER_SERVER.finanzas.df.gob.mx
+Entry address(es):
+  IP address: 10.1.237.8
+Platform: cisco WS-C2960-24TT-L,  Capabilities: Switch IGMP
+Interface: GigabitEthernet6/13,  Port ID (outgoing port): GigabitEthernet0/1
+Holdtime : 123 sec
+
+Version :
+Cisco IOS Software, C2960 Software (C2960-LANBASEK9-M), Version 15.0(2)SE10, RELEASE SOFTWARE (fc2)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2016 by Cisco Systems, Inc.
+Compiled Mon 18-Jul-16 02:16 by prod_rel_team
+
+advertisement version: 2
+Protocol Hello:  OUI=0x00000C, Protocol ID=0x0112; payload len=27, value=00000000FFFFFFFF010221FF00000000000000215629ED80FF0000
+VTP Management Domain: 'LAVISTA.SEFIN'
+Native VLAN: 1
+Duplex: full
+Management address(es):
+  IP address: 10.1.237.8
+
+-------------------------
+Device ID: Core_Perisur.finanzas.df.gob.mx
+Entry address(es):
+  IP address: 192.168.101.102
+Platform: Cisco C6807-XL,  Capabilities: Router Switch IGMP
+Interface: GigabitEthernet6/8,  Port ID (outgoing port): GigabitEthernet2/26
+Holdtime : 130 sec
+
+Version :
+Cisco IOS Software, s6t64 Software (s6t64-IPSERVICESK9-M), Version 15.5(1)SY, RELEASE SOFTWARE (fc6)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2017 by Cisco Systems, Inc.
+Compiled Sun 30-Apr-17 02:06 by prod_rel_team
+
+advertisement version: 2
+VTP Management Domain: 'SEFIN'
+Duplex: half
+Management address(es):
+  IP address: 192.168.101.102
+
+-------------------------
+Device ID: Core_Perisur.finanzas.df.gob.mx
+Entry address(es):
+  IP address: 10.1.121.253
+Platform: Cisco C6807-XL,  Capabilities: Router Switch IGMP
+Interface: GigabitEthernet7/31,  Port ID (outgoing port): GigabitEthernet7/37
+Holdtime : 157 sec
+
+Version :
+Cisco IOS Software, s6t64 Software (s6t64-IPSERVICESK9-M), Version 15.5(1)SY, RELEASE SOFTWARE (fc6)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2017 by Cisco Systems, Inc.
+Compiled Sun 30-Apr-17 02:06 by prod_rel_team
+
+advertisement version: 2
+VTP Management Domain: 'SEFIN'
+Duplex: full
+Management address(es):
+  IP address: 10.1.121.253
+
+-------------------------
+Device ID: Core_Perisur.finanzas.df.gob.mx
+Entry address(es):
+  IP address: 10.1.101.149
+Platform: Cisco C6807-XL,  Capabilities: Router Switch IGMP
+Interface: GigabitEthernet7/32,  Port ID (outgoing port): GigabitEthernet7/39
+Holdtime : 172 sec
+
+Version :
+Cisco IOS Software, s6t64 Software (s6t64-IPSERVICESK9-M), Version 15.5(1)SY, RELEASE SOFTWARE (fc6)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2017 by Cisco Systems, Inc.
+Compiled Sun 30-Apr-17 02:06 by prod_rel_team
+
+advertisement version: 2
+VTP Management Domain: 'SEFIN'
+Duplex: full
+Management address(es):
+  IP address: 10.1.101.149
+
+-------------------------
+Device ID: Fray_Servando
+Entry address(es):
+  IP address: 10.1.120.252
+Platform: cisco WS-C3560X-24,  Capabilities: Router Switch IGMP
+Interface: GigabitEthernet7/25,  Port ID (outgoing port): GigabitEthernet0/6
+Holdtime : 130 sec
+
+Version :
+Cisco IOS Software, C3560E Software (C3560E-UNIVERSALK9-M), Version 12.2(55)SE11, RELEASE SOFTWARE (fc3)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2016 by Cisco Systems, Inc.
+Compiled Wed 17-Aug-16 12:46 by prod_rel_team
+
+advertisement version: 2
+Protocol Hello:  OUI=0x00000C, Protocol ID=0x0112; payload len=27, value=00000000FFFFFFFF01022502000000000000E4D3F1FBA800FF0000
+VTP Management Domain: ''
+Native VLAN: 511
+Duplex: full
+Management address(es):
+  IP address: 10.1.120.252
+
+-------------------------
+Device ID: 3945DRLAVISTA
+Entry address(es):
+  IP address: 10.1.100.2
+Platform: Cisco CISCO3945-CHASSIS,  Capabilities: Router Source-Route-Bridge Switch
+Interface: GigabitEthernet6/4,  Port ID (outgoing port): GigabitEthernet0/0
+Holdtime : 170 sec
+
+Version :
+Cisco IOS Software, C3900 Software (C3900-UNIVERSALK9-M), Version 15.5(3)M2, RELEASE SOFTWARE (fc1)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2016 by Cisco Systems, Inc.
+Compiled Sun 07-Feb-16 05:40 by prod_rel_team
+
+advertisement version: 2
+Duplex: full
+Management address(es):
+  IP address: 10.1.100.2
+
+-------------------------
+Device ID: FIDERE_2mbIDE.care.local
+Entry address(es):
+  IP address: 189.240.17.209
+Platform: Cisco CISCO1905/K9,  Capabilities: Router Switch IGMP
+Interface: GigabitEthernet7/40,  Port ID (outgoing port): GigabitEthernet0/0
+Holdtime : 150 sec
+
+Version :
+Cisco IOS Software, C1900 Software (C1900-UNIVERSALK9-M), Version 15.2(1)T2, RELEASE SOFTWARE (fc2)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2012 by Cisco Systems, Inc.
+Compiled Sun 19-Feb-12 00:12 by prod_rel_team
+
+advertisement version: 2
+VTP Management Domain: ''
+Duplex: full
+
+-------------------------
+Device ID: SW-15.5-Lavist.finanzas.df.gob.mx
+Entry address(es):
+  IP address: 10.1.237.5
+Platform: cisco WS-C2960X-48TS-L,  Capabilities: Switch IGMP
+Interface: GigabitEthernet6/21,  Port ID (outgoing port): GigabitEthernet1/0/48
+Holdtime : 156 sec
+
+Version :
+Cisco IOS Software, C2960X Software (C2960X-UNIVERSALK9-M), Version 15.2(2)E3, RELEASE SOFTWARE (fc3)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Wed 26-Aug-15 07:12 by prod_rel_team
+
+advertisement version: 2
+Protocol Hello:  OUI=0x00000C, Protocol ID=0x0112; payload len=27, value=00000000FFFFFFFF010221FF00000000000094D469186500FF0000
+VTP Management Domain: 'LAVISTA.SEFIN'
+Native VLAN: 1
+Duplex: full
+Management address(es):
+  IP address: 10.1.237.5
+
+-------------------------
+Device ID: SW-15.33-IDFE.finanzas.df.gob.mx
+Entry address(es):
+  IP address: 10.1.237.30
+Platform: cisco WS-C2960-24PC-L,  Capabilities: Switch IGMP
+Interface: GigabitEthernet5/7,  Port ID (outgoing port): GigabitEthernet0/1
+Holdtime : 151 sec
+
+Version :
+Cisco IOS Software, C2960 Software (C2960-LANBASEK9-M), Version 15.0(2)SE10, RELEASE SOFTWARE (fc2)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2016 by Cisco Systems, Inc.
+Compiled Mon 18-Jul-16 02:16 by prod_rel_team
+
+advertisement version: 2
+Protocol Hello:  OUI=0x00000C, Protocol ID=0x0112; payload len=27, value=00000000FFFFFFFF010221FF00000000000000211BE68900FF0000
+VTP Management Domain: 'LAVISTA.SEFIN'
+Native VLAN: 1
+Duplex: full
+Management address(es):
+  IP address: 10.1.237.30
+Unidirectional Mode: off
+
+-------------------------
+Device ID: SW-237.7-MDFA.finanzas.df.gob.mx
+Entry address(es):
+  IP address: 10.1.237.7
+Platform: cisco WS-C2960-24TT-L,  Capabilities: Switch IGMP
+Interface: GigabitEthernet6/12,  Port ID (outgoing port): GigabitEthernet0/1
+Holdtime : 165 sec
+
+Version :
+Cisco IOS Software, C2960 Software (C2960-LANBASEK9-M), Version 15.0(2)SE10, RELEASE SOFTWARE (fc2)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2016 by Cisco Systems, Inc.
+Compiled Mon 18-Jul-16 02:16 by prod_rel_team
+
+advertisement version: 2
+Protocol Hello:  OUI=0x00000C, Protocol ID=0x0112; payload len=27, value=00000000FFFFFFFF010221FF000000000000002156282A00FF0000
+VTP Management Domain: 'LAVISTA.SEFIN'
+Native VLAN: 1
+Duplex: full
+Management address(es):
+  IP address: 10.1.237.7
+
+-------------------------
+Device ID: SW-15.26-IDFD.finanzas.df.gob.mx
+Entry address(es):
+  IP address: 10.1.237.26
+Platform: cisco WS-C2960X-24PS-L,  Capabilities: Switch IGMP
+Interface: GigabitEthernet5/6,  Port ID (outgoing port): GigabitEthernet1/0/25
+Holdtime : 122 sec
+
+Version :
+Cisco IOS Software, C2960X Software (C2960X-UNIVERSALK9-M), Version 15.2(2)E7, RELEASE SOFTWARE (fc3)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2017 by Cisco Systems, Inc.
+Compiled Wed 12-Jul-17 13:06 by prod_rel_team
+
+advertisement version: 2
+Protocol Hello:  OUI=0x00000C, Protocol ID=0x0112; payload len=27, value=00000000FFFFFFFF010221FF00000000000000A289AFC500FF0000
+VTP Management Domain: 'LAVISTA.SEFIN'
+Native VLAN: 1
+Duplex: full
+Management address(es):
+  IP address: 10.1.237.26
+Unidirectional Mode: off
+
+-------------------------
+Device ID: SW-237.10-MDFA.finanzas.df.gob.mx
+Entry address(es):
+  IP address: 10.1.237.10
+Platform: cisco WS-C2960-24TT-L,  Capabilities: Switch IGMP
+Interface: GigabitEthernet6/16,  Port ID (outgoing port): GigabitEthernet0/1
+Holdtime : 128 sec
+
+Version :
+Cisco IOS Software, C2960 Software (C2960-LANBASEK9-M), Version 15.0(2)SE11, RELEASE SOFTWARE (fc3)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2017 by Cisco Systems, Inc.
+Compiled Sat 19-Aug-17 09:34 by prod_rel_team
+
+advertisement version: 2
+Protocol Hello:  OUI=0x00000C, Protocol ID=0x0112; payload len=27, value=00000000FFFFFFFF010221FF00000000000000215629F500FF0000
+VTP Management Domain: 'LAVISTA.SEFIN'
+Native VLAN: 1
+Duplex: full
+Management address(es):
+  IP address: 10.1.237.10
+
+-------------------------
+Device ID: SW-15.89-MDFC1.finanzas.df.gob.mx
+Entry address(es):
+  IP address: 10.1.237.89
+Platform: cisco WS-C2960X-48TS-L,  Capabilities: Switch IGMP
+Interface: GigabitEthernet5/5,  Port ID (outgoing port): GigabitEthernet1/0/52
+Holdtime : 179 sec
+
+Version :
+Cisco IOS Software, C2960X Software (C2960X-UNIVERSALK9-M), Version 15.2(2)E7, RELEASE SOFTWARE (fc3)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2017 by Cisco Systems, Inc.
+Compiled Wed 12-Jul-17 13:06 by prod_rel_team
+
+advertisement version: 2
+Protocol Hello:  OUI=0x00000C, Protocol ID=0x0112; payload len=27, value=00000000FFFFFFFF010221FF0000000000002C0BE9402380FF0000
+VTP Management Domain: 'LAVISTA.SEFIN'
+Native VLAN: 1
+Duplex: full
+Management address(es):
+  IP address: 10.1.237.89
+Unidirectional Mode: off
+
+-------------------------
+Device ID: SW-237.230.finanzas.cdmx.gob.mx
+Entry address(es):
+  IP address: 10.1.237.230
+Platform: cisco WS-C2960X-24PS-L,  Capabilities: Switch IGMP
+Interface: GigabitEthernet6/17,  Port ID (outgoing port): GigabitEthernet1/0/24
+Holdtime : 160 sec
+
+Version :
+Cisco IOS Software, C2960X Software (C2960X-UNIVERSALK9-M), Version 15.2(2)E4, RELEASE SOFTWARE (fc2)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2016 by Cisco Systems, Inc.
+Compiled Fri 12-Feb-16 22:57 by prod_rel_team
+
+advertisement version: 2
+Protocol Hello:  OUI=0x00000C, Protocol ID=0x0112; payload len=27, value=00000000FFFFFFFF010221FF00000000000000A289AFC980FF0000
+VTP Management Domain: 'LAVISTA.SEFIN'
+Native VLAN: 1
+Duplex: full
+Management address(es):
+  IP address: 10.1.237.230
+
+-------------------------
+Device ID: Internet-IPODS.SFIN
+Entry address(es):
+  IP address: 192.168.100.2
+Platform: Cisco 2811,  Capabilities: Router Switch IGMP
+Interface: GigabitEthernet6/3,  Port ID (outgoing port): FastEthernet0/0
+Holdtime : 168 sec
+
+Version :
+Cisco IOS Software, 2800 Software (C2800NM-ADVSECURITYK9-M), Version 15.1(4)M, RELEASE SOFTWARE (fc1)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2011 by Cisco Systems, Inc.
+Compiled Thu 24-Mar-11 14:26 by prod_rel_team
+
+advertisement version: 2
+VTP Management Domain: ''
+Duplex: full
+
+-------------------------
+Device ID: SW-15.6-MDFA.finanzas.df.gob.mx
+Entry address(es):
+  IP address: 10.1.237.6
+Platform: cisco WS-C2960-24TT-L,  Capabilities: Switch IGMP
+Interface: GigabitEthernet6/18,  Port ID (outgoing port): GigabitEthernet0/1
+Holdtime : 121 sec
+
+Version :
+Cisco IOS Software, C2960 Software (C2960-LANBASEK9-M), Version 15.0(2)SE10, RELEASE SOFTWARE (fc2)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2016 by Cisco Systems, Inc.
+Compiled Mon 18-Jul-16 02:16 by prod_rel_team
+
+advertisement version: 2
+Protocol Hello:  OUI=0x00000C, Protocol ID=0x0112; payload len=27, value=00000000FFFFFFFF010221FF00000000000000211CE7F280FF0000
+VTP Management Domain: 'LAVISTA.SEFIN'
+Native VLAN: 1
+Duplex: full
+Management address(es):
+  IP address: 10.1.237.6
+
+-------------------------
+Device ID: SW-237.9.finanzas.df.gob.mx
+Entry address(es):
+  IP address: 10.1.237.9
+Platform: cisco WS-C2960-24TT-L,  Capabilities: Switch IGMP
+Interface: GigabitEthernet6/14,  Port ID (outgoing port): GigabitEthernet0/1
+Holdtime : 157 sec
+
+Version :
+Cisco IOS Software, C2960 Software (C2960-LANBASEK9-M), Version 15.0(2)SE10, RELEASE SOFTWARE (fc2)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2016 by Cisco Systems, Inc.
+Compiled Mon 18-Jul-16 02:16 by prod_rel_team
+
+advertisement version: 2
+Protocol Hello:  OUI=0x00000C, Protocol ID=0x0112; payload len=27, value=00000000FFFFFFFF010221FF00000000000000211CE7FB80FF0000
+VTP Management Domain: 'LAVISTA.SEFIN'
+Native VLAN: 1
+Duplex: full
+Management address(es):
+  IP address: 10.1.237.9
+
+-------------------------
+Device ID: SW-237.194.finanzas.df.gob.mx
+Entry address(es):
+  IP address: 10.1.237.194
+Platform: cisco WS-C2960-24PC-L,  Capabilities: Switch IGMP
+Interface: GigabitEthernet5/3,  Port ID (outgoing port): GigabitEthernet0/1
+Holdtime : 161 sec
+
+Version :
+Cisco IOS Software, C2960 Software (C2960-LANBASEK9-M), Version 15.0(2)SE11, RELEASE SOFTWARE (fc3)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2017 by Cisco Systems, Inc.
+Compiled Sat 19-Aug-17 09:34 by prod_rel_team
+
+advertisement version: 2
+Protocol Hello:  OUI=0x00000C, Protocol ID=0x0112; payload len=27, value=00000000FFFFFFFF010221FF00000000000000211BE6A400FF0000
+VTP Management Domain: 'LAVISTA.SEFIN'
+Native VLAN: 1
+Duplex: full
+Management address(es):
+  IP address: 10.1.237.194
+Unidirectional Mode: off
+
+
+Total cdp entries displayed : 27
